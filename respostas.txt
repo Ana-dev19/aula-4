@@ -1,0 +1,78 @@
+1- Escreve  os valores (X,Y,Z)
+Se a soma de X + Y > Z
+Imprima "FALSO" 
+Senão X + Y< Z
+Imprima o resultado
+Fim
+
+2-Escreva var nome= "Felipe"
+var sexo = "M"
+var estadocivil= "CASADO"
+Se var sexo= "M"
+Declare o estadocivil
+Se estadocivil = "CASADO"
+Declare o tempo de casado
+Senão
+Imprima somente variavel nome,sexo e estado civil
+Fim
+
+3-Escreva var número= 8
+Se 8 && par
+Imprima se é "VERDADEIRO"
+Se não
+Imprima "FALSO"
+Fim
+
+4-Escreva var idade = X
+var idade = Z
+Se X == Z some 2
+Se não
+Multiplique X == Z
+Imprima o resultado de Z
+Fim
+
+5-Escreva var número= X
+Multiplique o valor atribuido
+Se X&& positivo
+Imprima o resultado
+Se não
+Se o triplo de X && negativo
+Imprima o resultado
+Fim
+
+6-Escreva var= (6 == 5 +1)
+Imprima "VERDADEIRO"
+Se var (10 < = 5)
+imprima "FALSO"
+Fim
+
+7-Escreva var = X
+Se var X for prar
+Some 5
+Imprima o resultado
+Senão
+Se var X for impar
+Some 8
+Imprima o resultado
+Fim
+
+8- Escreva (Digite o número A;)
+Letra A;
+
+Se (A>B) && (B>C) então
+Escreva (A,B,C)
+Fim-se
+
+se (A>C) && (C>B) então
+Escreva (A,B,C)
+fim-se
+
+se(B>=A) && (A > C) então
+Escreva (B,A,C)
+Fim-se
+se(B>C) && (C > A) então
+Escreva (B, C, A)
+fim-se 
+Fim
+
+
